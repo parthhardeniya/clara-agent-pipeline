@@ -1,0 +1,25 @@
+{
+  "account_id": "ACC003",
+  "company_name": "",
+  "business_hours": {
+    "days": [],
+    "start": "",
+    "end": "",
+    "timezone": ""
+  },
+  "office_address": "unknown",
+  "services_supported": [],
+  "emergency_definition": [],
+  "emergency_routing_rules": {},
+  "non_emergency_routing_rules": {},
+  "call_transfer_rules": {
+    "timeout_seconds": "",
+    "retries": "",
+    "fallback_message": ""
+  },
+  "integration_constraints": [],
+  "after_hours_flow_summary": "Greeting \u2192 confirm emergency \u2192 collect caller details \u2192 transfer \u2192 fallback if transfer fails",
+  "office_hours_flow_summary": "Greeting \u2192 ask purpose \u2192 collect caller details \u2192 transfer or schedule \u2192 fallback if transfer fails \u2192 close call",
+  "questions_or_unknowns": [],
+  "notes": "Generated from demo transcript"
+}

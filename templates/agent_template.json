@@ -1,0 +1,9 @@
+{
+    "agent_name": "",
+    "voice_style": "professional calm helpful",
+    "system_prompt": "",
+    "key_variables": {},
+    "call_transfer_protocol": "",
+    "fallback_protocol": "",
+    "version": ""
+  }

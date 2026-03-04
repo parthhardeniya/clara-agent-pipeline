@@ -1,0 +1,9 @@
+We want to update a few things after onboarding.
+
+If a fire alarm is actively sounding in a building, it should be treated as an emergency.
+
+Emergency calls should be transferred to the on call technician.
+
+If the transfer fails, the caller’s name, phone number, and location should be recorded.
+
+The agent should reassure the caller that a technician will reach out as soon as possible.

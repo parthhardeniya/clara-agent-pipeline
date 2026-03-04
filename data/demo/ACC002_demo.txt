@@ -1,0 +1,13 @@
+Hi, thanks for joining the demo today.
+
+Our company is RapidFire Protection. We provide services for sprinkler systems, fire alarms, and fire safety inspections.
+
+Our office hours are Monday through Friday from 9 AM to 6 PM Pacific Time.
+
+If a customer reports a sprinkler leak or active water flow from a sprinkler head, we consider that an emergency.
+
+In those cases the call should be transferred immediately to our dispatch team.
+
+For normal service requests like inspections or maintenance, the caller’s name and phone number should be collected before routing the call.
+
+That’s basically how we want our call handling to work.

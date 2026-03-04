@@ -1,0 +1,9 @@
+During onboarding we want to clarify a few things.
+
+Emergency calls such as sprinkler leaks should always be transferred to dispatch immediately.
+
+If the transfer fails, the agent should collect the caller’s name, phone number, and address and tell them someone will call them back shortly.
+
+Also one rule we have is that the agent should never automatically create sprinkler service jobs in ServiceTrade.
+
+All job creation must be handled by our internal dispatch team.
